@@ -1,4 +1,4 @@
-# 264154_Lnt_java_Activity1 (CLASS AND OBJECTS)
+# 264154_Lnt_java_Activity1 (CLASSES AND OBJECTS)
 
 ## Solutions for all 5 questions were included here.
 
