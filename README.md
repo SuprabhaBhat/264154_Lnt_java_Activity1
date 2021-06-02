@@ -1,6 +1,14 @@
-# 264154_Lnt_java_Activity1 (CLASSES AND OBJECTS)
+# 264154_Lnt_Oops with Java_Activities
 
-## Solutions for all 5 questions were included here.
+*Activity 1:Classes and Objects
+-----------
+*Activity 2:Inheritance
+-----------
+*Activity3:Abstract class
+-----------
+
+### Solutions for all Activities are included.
+##Activity 1:
 
 - ### Question 1:
 Created class Employee and EmployeeMain.
